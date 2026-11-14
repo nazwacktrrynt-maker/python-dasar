@@ -1,0 +1,3 @@
+Halo, ini file pertama
+Belajar Python itu seru
+Baris tambahan
